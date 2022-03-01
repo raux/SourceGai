@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "/"
+baseURL = "https://raux.github.io/gai.io/"
 languageCode = "en-us"
 title = "Raula Gaikovina Kula"
 theme = "forty"
@@ -38,7 +38,7 @@ disqusShortname = ""
   # Navigation Section
   [params.navigation]
     title = "Raula Gaikovina Kula"
-    subtitle = "-raula-k@@is.naist.jp"
+    subtitle = "-raula-k@is.naist.jp"
     menu = "Menu"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
