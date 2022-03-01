@@ -82,7 +82,7 @@ disqusShortname = ""
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
     title = "Raula Gaikovina Kula, PhD"
-    subtitle = """@NAIST Software Engineering Lab, as an Assistant Professor. Interests include technical (code) and (society) social developer aspects relationships within an ecosystem of evolving software """
+    subtitle = """@NAIST Software Engineering Lab, as an Assistant Professor. Topics of interest include Empirical Software Engineering, Software Ecosystems, Code Review, Developer Proficiency """
     buttonText = "Show Me"
 
  # Section Type Two
