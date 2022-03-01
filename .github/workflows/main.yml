@@ -32,7 +32,7 @@ jobs:
       with:
         deploy_key: ${{ secrets.ACT_DEPLOY_KEY }}
         external_repository: raux/gai.io
-        publish_branch: main
+        publish_branch: master
         # Without `keep_files` the `CNAME` file in the target repo will get removed
         # and the custom domain configured for GitHub pages will get dropped every 
         # time the action runs…
