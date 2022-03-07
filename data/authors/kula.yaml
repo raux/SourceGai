@@ -1,0 +1,18 @@
+name: Raula
+bio: "Russian novelist, best known for his novels *War and Peace*, *Anna Karenina* and various essays."
+
+sources:
+- title: "Anna Karenina"
+  quotes:
+  - entry: "quote no. 1"
+    comment: "comment no. 1"
+    credits: "credit no. 1"
+  - entry: "quote no. 2"
+    comment: "comment no. 2"
+    credits: "credit no. 2"
+
+  - title: "War and Peace"
+  quotes:
+  - entry: "quote no. 3"
+    comment: "comment no. 3"
+    credits: "credit no. 3"
